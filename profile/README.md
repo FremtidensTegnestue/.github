@@ -1,14 +1,21 @@
 # Velkommen til Fremtidens Tegnestues åbne værktøjer
 
-Her kan du undersøge materialer, lære om bygninger og bygge videre på vores arbejde. Du behøver ikke kende GitHub eller programmering for at begynde.
+Til dig, der tegner, beregner, bygger eller er bygherre. Her kan du undersøge materialer, forstå bygningsdele og følge konkrete eksempler — uden at kende GitHub eller programmering.
 
-## [Kom i gang — åbn værktøjerne i browseren](https://fremtidenstegnestue.github.io/open-source/)
+## [Åbn materialer, tegninger og fagbøger](https://fremtidenstegnestue.github.io/open-source/)
 
-Find et materiale, se hvad tallene gælder for, og åbn kilden. Første browserudgave viser 507 danske materialereferencer fra 2025. Den er et materialeopslag, ikke et komplet klimaregnskab.
+Begynd med den opgave, du står med:
 
-- [Find et materiale](https://fremtidenstegnestue.github.io/open-source/#materialer) — uden installation eller konto.
-- [Læs eller hent en fagbog](https://fremtidenstegnestue.github.io/open-source/#boeger) — om transformation, genbrug og træsamlinger.
-- [Se koden og udvikl videre](https://github.com/FremtidensTegnestue/open-source) — kode, dokumentation og bidragsvejledning er åbne.
+- [Find et materiale og forstå klimatallet](https://fremtidenstegnestue.github.io/open-source/#materialer).
+- [Forstå delene i et vindue](https://fremtidenstegnestue.github.io/open-source/vinduet.html).
+- [Følg et valg fra modelmål til klimatal](https://fremtidenstegnestue.github.io/open-source/regneeksempel.html).
+- [Læs eller hent en fagbog](https://fremtidenstegnestue.github.io/open-source/#boeger).
+
+Disse opgaver kræver ingen installation eller konto. Browseropslaget viser 507 danske materialereferencer fra 2025. Eksemplerne angiver deres forudsætninger, kilder og kontrolomfang; materialerne er et grundlag for videre undersøgelse af dit byggeri.
+
+### Vil du bruge egne modeller eller bidrage?
+
+[Se kode, opsætning og bidragsvejledning](https://github.com/FremtidensTegnestue/open-source). Du kan bidrage med både faglig viden, fejlrettelser og kode. Beregningsværktøjer og modelprogrammer har deres egne installationsveje.
 
 Går du i stå, eller har du en idé? [Kontakt os](https://fremtidenstegnestue.dk/kontakt-os). Du er velkommen, også uden en GitHub-konto.
 
