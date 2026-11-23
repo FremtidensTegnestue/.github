@@ -2,6 +2,8 @@
 
 Til dig, der tegner, beregner, bygger eller er bygherre. Her kan du undersøge materialer, forstå bygningsdele og følge konkrete eksempler — uden at kende GitHub eller programmering.
 
+Brug materialet direkte, eller [tag din egen AI med som hjælp](https://fremtidenstegnestue.github.io/open-source/#brug-ai). Her er en konkret opgave, du kan kopiere, og hjælp til at dele den relevante tekst eller materialefil med din AI.
+
 ## [Åbn materialer, tegninger og fagbøger](https://fremtidenstegnestue.github.io/open-source/)
 
 Begynd med den opgave, du står med:
